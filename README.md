@@ -1,1 +1,1 @@
-# RuchikaRepo
+# RuchikaRepo - Juest created for fun
